@@ -1,0 +1,9 @@
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\bin\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.deps.json
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\bin\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.dll
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\bin\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.pdb
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.csprojAssemblyReference.cache
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.AssemblyInfoInputs.cache
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.AssemblyInfo.cs
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.csproj.CoreCompileInputs.cache
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.dll
+C:\Aplicada2\PedidosBlazorWebAssembly\Shared\obj\Debug\netstandard2.1\PedidosBlazorWebAssembly.Shared.pdb
