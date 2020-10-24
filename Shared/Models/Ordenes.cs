@@ -16,7 +16,6 @@ namespace PedidosBlazorWebAssembly.Shared.Models
 
         public decimal monto { get; set; }
 
-        //[ForeignKey("ordenId")]
         public virtual List<OrdenesDetalle> OrdenDetalles { get; set; }
 
         public Ordenes()

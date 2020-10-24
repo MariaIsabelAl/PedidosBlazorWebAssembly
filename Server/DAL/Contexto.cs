@@ -20,6 +20,11 @@ namespace PedidosBlazorWebAssembly.Server.DAL
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+            //[ForeignKey("ordenId")]
+            modelBuilder.Entity<OrdenesDetalle>().HasKey(sc => new { sc.ordenId, sc.productoId });
+
+
             modelBuilder.Entity<Productos>().HasData(new Productos
             {
                 productoId = 1,
@@ -33,6 +38,8 @@ namespace PedidosBlazorWebAssembly.Server.DAL
                 suplidorId = 1,
                 nombre = "Jeo"
             });
+
+
 
         }
     }

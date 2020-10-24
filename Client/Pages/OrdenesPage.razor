@@ -3,6 +3,8 @@
 
 @using PedidosBlazorWebAssembly.Shared.Models
 
+@using System.Net.Http
+@inject HttpClient Http
 
 
 <EditForm Model="ordenes" OnValidSubmit="Guardar">
